@@ -1,0 +1,2 @@
+# Fan-Favorite-Star-Wars-Film
+ Is "The Empire Strikes Back" the Fan Favorite Star Wars Film? Introduction  The purpose of this study is to ascertain if the fifth movie is the most beloved entry in the franchise amongst fans. FiveThirtyEight created a survey to address this question and provided this dataset. In addition to answering this question, perspectives such as gender, fandom, and wage class will be used to show how movie ratings and viewership vary by group.
